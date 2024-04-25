@@ -18,4 +18,4 @@ Isabela Sofiste
 ### Documentação
 Personas, cenários e objetivos: https://docs.google.com/document/d/1rRbIjjJu907U_B6fix4FvN_gvL4eJHTrl9gHxvLmvag/edit?usp=sharing
 
-MoLIC: https://lucid.app/lucidchart/264de334-0c01-4023-a586-a2aa786b16a2/edit?viewport_loc=-4581%2C-425%2C6700%2C3119%2CCNZpOzEHsqfY&invitationId=inv_764603c4-88db-4110-93b8-b7d506655561
+MoLIC: [https://lucid.app/lucidchart/264de334-0c01-4023-a586-a2aa786b16a2/edit?viewport_loc=-4581%2C-425%2C6700%2C3119%2CCNZpOzEHsqfY&invitationId=inv_764603c4-88db-4110-93b8-b7d506655561]
