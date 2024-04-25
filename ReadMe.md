@@ -10,7 +10,7 @@ Este projeto visa desenvolver uma MoLIC (Modelo de Linguagem de Interação com 
 
 Isabela Sofiste
 
-# #  Links do Projeto
+## Links do Projeto
 
 ### Figma
 [https://www.figma.com/proto/w7FWsHbcgVZUiViAFJXy7M/MVP?page-id=80%3A14240&type=design&node-id=80-14240&viewport=-82%2C240%2C0.07&t=2vdyucQVPLuugACz-1&scaling=scale-down&starting-point-node-id=904%3A9783&show-proto-sidebar=1&mode=design]
